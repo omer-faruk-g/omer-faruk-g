@@ -6,26 +6,19 @@
 
 <br>
 
-<!--
-╔══════════════════════════════════════════════════════════════════╗
-║  AŞAĞIDAKİ "Hakkımda" YAZISI SANA AİT — İSTEDİĞİN GİBİ DEĞİŞTİR. ║
-║  Sadece düz yazı; HTML/etiket bilmene gerek yok.                 ║
-║  **iki yıldız** arasına aldığın kelime kalın görünür.            ║
-╚══════════════════════════════════════════════════════════════════╝
--->
+
 
 ### Hakkımda
 
-Merhaba, ben Ömer 👋
+Merhaba, ben Ömer 
 
-Mikrodenetleyicilerle ve donanıma yakın yazılımla ilgileniyorum. Devre tarafında
-çoğunlukla **C** ve **Arduino**, hızlı prototip ve otomasyon tarafında ise
-**Python** kullanıyorum.
+Donanım ve yazılım alanlarında çalışmalar yapıyorum.
+Çoğunlukla **C** , **Arduino**  ve   **Python** kullanıyorum.
 
 Bir fikri devreye dökmek, çalıştırmak ve sonra sadeleştirmek hoşuma gidiyor.
 Buradaki depolar da büyük ölçüde o denemelerden oluşuyor.
 
-<!-- ── Hakkımda yazısı burada bitiyor ── -->
+
 
 <br>
 
