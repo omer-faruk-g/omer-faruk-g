@@ -1,7 +1,7 @@
 <h1 align="center">Ömer Faruk</h1>
 
 <p align="center">
-  Gömülü sistemler, düşük seviyeli yazılım ve küçük ama bitmiş projeler.
+  düşük/orta seviye yazılım, mini projeler, İyi bir C bilgisi.
 </p>
 
 <br>
