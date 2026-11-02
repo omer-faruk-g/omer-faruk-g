@@ -18,7 +18,7 @@ Donanım ve yazılım alanlarında çalışmalar yapıyorum.
 Bir fikri devreye dökmek, çalıştırmak ve sonra sadeleştirmek hoşuma gidiyor.
 Buradaki depolar da büyük ölçüde o denemelerden oluşuyor.
 
-
+En büyük hayalim: Kendi işletim sistemimi 0'dan kodlamak.
 
 <br>
 
