@@ -24,7 +24,7 @@ En büyük hayalim: Kendi işletim sistemimi 0'dan kodlamak.
 ### Kullandıklarım
 
 <p>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" width="81" height="81" alt="C" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" width="85" height="85" alt="C" />
   &nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" width="81" height="81" alt="Arduino" />
   &nbsp;
