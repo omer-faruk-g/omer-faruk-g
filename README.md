@@ -24,11 +24,11 @@ En büyük hayalim: Kendi işletim sistemimi 0'dan kodlamak.
 ### Kullandıklarım
 
 <p>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" width="64" height="64" alt="C" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" width="81" height="81" alt="C" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" width="64" height="64" alt="Arduino" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" width="81" height="81" alt="Arduino" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="64" height="64" alt="Python" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="81" height="81" alt="Python" />
 </p>
 
 <br>
@@ -39,11 +39,11 @@ En büyük hayalim: Kendi işletim sistemimi 0'dan kodlamak.
 
 <p>
   <a href="https://github.com/omer-faruk-g">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="66" height="66" alt="GitHub" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="70" height="70" alt="GitHub" />
   </a>
   &nbsp;
   <a href="mailto:photonpulsegaming@gmail.com">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="48" height="48" alt="Gmail" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="66" height="66" alt="Gmail" />
   </a>
 </p>
 
