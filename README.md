@@ -15,7 +15,6 @@ Merhaba, ben Ömer
 Donanım ve yazılım alanlarında çalışmalar yapıyorum.
 Çoğunlukla **C** , **Arduino**  ve   **Python** kullanıyorum.
 
-Bir fikri devreye dökmek, çalıştırmak ve sonra sadeleştirmek hoşuma gidiyor.
 Buradaki depolar da büyük ölçüde o denemelerden oluşuyor.
 
 En büyük hayalim: Kendi işletim sistemimi 0'dan kodlamak.
@@ -25,11 +24,11 @@ En büyük hayalim: Kendi işletim sistemimi 0'dan kodlamak.
 ### Kullandıklarım
 
 <p>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" width="48" height="48" alt="C" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" width="64" height="64" alt="C" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" width="48" height="48" alt="Arduino" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" width="64" height="64" alt="Arduino" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="48" height="48" alt="Python" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="64" height="64" alt="Python" />
 </p>
 
 <br>
@@ -40,7 +39,7 @@ En büyük hayalim: Kendi işletim sistemimi 0'dan kodlamak.
 
 <p>
   <a href="https://github.com/omer-faruk-g">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="48" height="48" alt="GitHub" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="66" height="66" alt="GitHub" />
   </a>
   &nbsp;
   <a href="mailto:photonpulsegaming@gmail.com">
